@@ -16,7 +16,7 @@ class App extends Component {
       selectedVideo: null
     };
 
-    this.searchYouTube('A_Seagull');
+    this.searchYouTube('React.js');
   }
 
   searchYouTube(term) {
